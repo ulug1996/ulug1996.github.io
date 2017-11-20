@@ -1,0 +1,12 @@
+body {
+
+	background-color: cornsilk;
+	margin:0;
+	padding:0;
+}
+img {
+	border:1px solid black;
+	display:block;
+	margin-right: auto;
+	margin-left: auto;
+}
